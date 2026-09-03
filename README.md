@@ -118,7 +118,41 @@ ott-streaming-platform/
            │ Application  │          │    Media     │
            │     Data     │          │   Storage    │
            └──────────────┘          └──────────────┘
-```
+
+## Screenshots
+
+### Home
+
+![Home](screenshots/home.png)
+
+### Hero Section
+
+![Hero Section](screenshots/hero.png)
+
+### Search
+
+![Search](screenshots/search.png)
+
+### Movie Player
+
+![Movie Player](screenshots/player.png)
+
+### Admin Dashboard
+
+![Admin Dashboard](screenshots/dashboard.png)
+
+### Movie Management
+
+![Movie Management](screenshots/movies.png)
+
+### Categories
+
+![Categories](screenshots/categories.png)
+
+### Category Section
+
+![Category Section](screenshots/categorysection.png)
+
 
 ## Getting Started
 
