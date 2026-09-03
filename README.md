@@ -118,6 +118,7 @@ ott-streaming-platform/
            │ Application  │          │    Media     │
            │     Data     │          │   Storage    │
            └──────────────┘          └──────────────┘
+```
 
 ## Screenshots
 
@@ -152,7 +153,6 @@ ott-streaming-platform/
 ### Category Section
 
 ![Category Section](screenshots/categorysection.png)
-
 
 ## Getting Started
 
